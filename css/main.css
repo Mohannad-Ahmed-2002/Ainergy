@@ -429,7 +429,7 @@ margin-left: -50px;
 
 
 
-@media (max-width: 750px) {
+@media (max-width: 750px )and (min-width: 600px) {
   
   .welcome .container img {
     width: 500px;
